@@ -1,0 +1,39 @@
+c:\users\3106024814\documents\visual studio 2012\Projects\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\bin\Debug\Revai_Jak_OPP2AnotherLang_AS2.exe.config
+c:\users\3106024814\documents\visual studio 2012\Projects\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\bin\Debug\Revai_Jak_OPP2AnotherLang_AS2.exe
+c:\users\3106024814\documents\visual studio 2012\Projects\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\bin\Debug\Revai_Jak_OPP2AnotherLang_AS2.pdb
+c:\users\3106024814\documents\visual studio 2012\Projects\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\obj\Debug\Revai_Jak_OPP2AnotherLang_AS2.csprojResolveAssemblyReference.cache
+c:\users\3106024814\documents\visual studio 2012\Projects\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\obj\Debug\Revai_Jak_OPP2AnotherLang_AS2.frmAddNewStudent.resources
+c:\users\3106024814\documents\visual studio 2012\Projects\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\obj\Debug\Revai_Jak_OPP2AnotherLang_AS2.frmStudentScores.resources
+c:\users\3106024814\documents\visual studio 2012\Projects\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\obj\Debug\Revai_Jak_OPP2AnotherLang_AS2.Properties.Resources.resources
+c:\users\3106024814\documents\visual studio 2012\Projects\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\obj\Debug\Revai_Jak_OPP2AnotherLang_AS2.csproj.GenerateResource.Cache
+c:\users\3106024814\documents\visual studio 2012\Projects\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\obj\Debug\Revai_Jak_OPP2AnotherLang_AS2.exe
+c:\users\3106024814\documents\visual studio 2012\Projects\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\obj\Debug\Revai_Jak_OPP2AnotherLang_AS2.pdb
+c:\users\3106024814\documents\visual studio 2012\Projects\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\obj\Debug\Revai_Jak_OPP2AnotherLang_AS2.frmUpdate_UpdateScore.resources
+c:\users\3106024814\documents\visual studio 2012\Projects\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\obj\Debug\Revai_Jak_OPP2AnotherLang_AS2.frmUpdateStudentScores.resources
+c:\users\3106024814\documents\visual studio 2012\Projects\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\obj\Debug\Revai_Jak_OPP2AnotherLang_AS2.frmUpdate_AddScore.resources
+F:\#Diploma Files\Term 3\C#\Assesments\Assesment 2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\bin\Debug\Revai_Jak_OPP2AnotherLang_AS2.exe.config
+F:\#Diploma Files\Term 3\C#\Assesments\Assesment 2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\obj\Debug\Revai_Jak_OPP2AnotherLang_AS2.exe
+F:\#Diploma Files\Term 3\C#\Assesments\Assesment 2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\obj\Debug\Revai_Jak_OPP2AnotherLang_AS2.pdb
+F:\#Diploma Files\Term 3\C#\Assesments\Assesment 2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\bin\Debug\Revai_Jak_OPP2AnotherLang_AS2.exe
+F:\#Diploma Files\Term 3\C#\Assesments\Assesment 2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\bin\Debug\Revai_Jak_OPP2AnotherLang_AS2.pdb
+F:\#Diploma Files\Term 3\C#\Assesments\Assesment 2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\obj\Debug\Revai_Jak_OPP2AnotherLang_AS2.csprojResolveAssemblyReference.cache
+F:\#Diploma Files\Term 3\C#\Assesments\Assesment 2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\obj\Debug\Revai_Jak_OPP2AnotherLang_AS2.frmUpdate_UpdateScore.resources
+F:\#Diploma Files\Term 3\C#\Assesments\Assesment 2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\obj\Debug\Revai_Jak_OPP2AnotherLang_AS2.frmAddNewStudent.resources
+F:\#Diploma Files\Term 3\C#\Assesments\Assesment 2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\obj\Debug\Revai_Jak_OPP2AnotherLang_AS2.frmStudentScores.resources
+F:\#Diploma Files\Term 3\C#\Assesments\Assesment 2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\obj\Debug\Revai_Jak_OPP2AnotherLang_AS2.frmUpdateStudentScores.resources
+F:\#Diploma Files\Term 3\C#\Assesments\Assesment 2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\obj\Debug\Revai_Jak_OPP2AnotherLang_AS2.frmUpdate_AddScore.resources
+F:\#Diploma Files\Term 3\C#\Assesments\Assesment 2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\obj\Debug\Revai_Jak_OPP2AnotherLang_AS2.Properties.Resources.resources
+F:\#Diploma Files\Term 3\C#\Assesments\Assesment 2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\obj\Debug\Revai_Jak_OPP2AnotherLang_AS2.csproj.GenerateResource.Cache
+C:\Users\Jak\Documents\#Diploma Files\Term 3\C#\Assesments\Assesment 2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\bin\Debug\Revai_Jak_OPP2AnotherLang_AS2.exe.config
+C:\Users\Jak\Documents\#Diploma Files\Term 3\C#\Assesments\Assesment 2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\obj\Debug\Revai_Jak_OPP2AnotherLang_AS2.exe
+C:\Users\Jak\Documents\#Diploma Files\Term 3\C#\Assesments\Assesment 2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\obj\Debug\Revai_Jak_OPP2AnotherLang_AS2.pdb
+C:\Users\Jak\Documents\#Diploma Files\Term 3\C#\Assesments\Assesment 2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\bin\Debug\Revai_Jak_OPP2AnotherLang_AS2.exe
+C:\Users\Jak\Documents\#Diploma Files\Term 3\C#\Assesments\Assesment 2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\bin\Debug\Revai_Jak_OPP2AnotherLang_AS2.pdb
+C:\Users\Jak\Documents\#Diploma Files\Term 3\C#\Assesments\Assesment 2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\obj\Debug\Revai_Jak_OPP2AnotherLang_AS2.csprojResolveAssemblyReference.cache
+C:\Users\Jak\Documents\#Diploma Files\Term 3\C#\Assesments\Assesment 2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\obj\Debug\Revai_Jak_OPP2AnotherLang_AS2.frmUpdate_UpdateScore.resources
+C:\Users\Jak\Documents\#Diploma Files\Term 3\C#\Assesments\Assesment 2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\obj\Debug\Revai_Jak_OPP2AnotherLang_AS2.frmAddNewStudent.resources
+C:\Users\Jak\Documents\#Diploma Files\Term 3\C#\Assesments\Assesment 2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\obj\Debug\Revai_Jak_OPP2AnotherLang_AS2.frmStudentScores.resources
+C:\Users\Jak\Documents\#Diploma Files\Term 3\C#\Assesments\Assesment 2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\obj\Debug\Revai_Jak_OPP2AnotherLang_AS2.frmUpdateStudentScores.resources
+C:\Users\Jak\Documents\#Diploma Files\Term 3\C#\Assesments\Assesment 2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\obj\Debug\Revai_Jak_OPP2AnotherLang_AS2.frmUpdate_AddScore.resources
+C:\Users\Jak\Documents\#Diploma Files\Term 3\C#\Assesments\Assesment 2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\obj\Debug\Revai_Jak_OPP2AnotherLang_AS2.Properties.Resources.resources
+C:\Users\Jak\Documents\#Diploma Files\Term 3\C#\Assesments\Assesment 2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\Revai_Jak_OPP2AnotherLang_AS2\obj\Debug\Revai_Jak_OPP2AnotherLang_AS2.csproj.GenerateResource.Cache

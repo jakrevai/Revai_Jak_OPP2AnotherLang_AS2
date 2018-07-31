@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Students>
+    <Student>
+        <FirstName>Sample</FirstName>
+        <LastName>Student</LastName>
+        <Score>100|100|</Score>
+    </Student>
+    <Student>
+        <FirstName>Sample</FirstName>
+        <LastName>Student2</LastName>
+        <Score>100|100|100|95|</Score>
+    </Student>
+</Students>
